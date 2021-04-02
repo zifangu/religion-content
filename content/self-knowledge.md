@@ -9,7 +9,7 @@ I went to high school with Myles Moore, who plays Jake Maitland in the music dra
 Like Myles, another celebrity that went to my school is Zion Williamson, who is currently a power forward for the New Orleans Pelicans. This is a picture of the majority of our senior graduating class during the state championship (can you spot me?). ![zion game](https://zifangu.github.io/religion-of-the-world/images/zion_game.png)
 
 ## Moment 2
-On March 23, a Panama flagged, Japanese-owned cargo ship Ever Given was grounded in the waterway of the Suez Canal. This blockage caused a major disruption in world trade. However terrible the event is, when I first heard about the incident, my first reaction was “imagine if this was a Chinese operated cargo ship.” ![ever given](https://zifangu.github.io/religion-of-the-world/images/canal.jpg)
+On March 23, a Panama flagged, Japanese-owned cargo ship Ever Given was grounded in the waterway of the Suez Canal. This blockage caused a major disruption in world trade. However terrible the event is, when I first heard about the incident, my first reaction was “imagine if this was a Chinese operated cargo ship.” ![ever given](https://zifangu.github.io/religion-of-the-world/images/canal.png)
 
 ## Discussion
 

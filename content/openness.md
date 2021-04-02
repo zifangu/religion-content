@@ -1,17 +1,14 @@
 ---
 title: Openness
 ---
+## Moment 1
+When Elizabeth came to our class to share her experience as a Baha’i, she mentioned that the biggest thing she grasped and eventually made her be a Baha’i is progressive revelation. It has the analogy that human history is like hiking up mountains. The big objective is to climb to the summit, but en route, there are downhills that seem to deviate us from reaching the top. After being able to use analogies to understand progressive revelation,  I have a better understanding of where others come from, and how we can engage in conversations about religion, which to some is the fundamental component of human life.
 
-## Table of contents
+## Moment 2
+After class ends, I typically walk with Cole to Old Main where we go separate ways. The 5-minute conversation three times a week made me learned a lot about the two of us. We share similar habits, have similar views on some but drastically different on others. I shared how most of the Chinese families treated religion. Most of them are atheists, but not because of the Chinese government. Instead, coming out of WWII, we have adhered to this idea that we can rely on no one except ourselves. Nothing is certain until you do it yourself. That’s why we don’t turn to God or gods for a better life or a successful event. We would be putting all of our hope into someone that is distant and isn’t present all the time. Despite his faith, he was intrigued by what I had to say. We ended up carrying out a 10-minute conversation about it.
 
-- [Table of contents](#table-of-contents)
-- [Text](#text)
-- [Code](#code)
-    - [Python](#python)
-    - [C/C++](#cc)
-    - [Bash](#bash)
-- [Tables](#tables)
 
-## Text
+## Discussion
+Every time my Christian friends talking about God over dinner, it was obvious they were trying to convert me, and I get quite annoyed. To me, analogies composed the entire Bible. Science has shown earth did not involve in nine days, so that must be an analogy. Lions ripped in half won’t produce honey, so that also must be an analogy. Whales can’t eat people and spit them back to shore alive, so that must be another analogy. That was hard for me to understand why my friends believe in abstract stories. But when we talked able Manifestations, things became a bit clearer. Analogies, like manifestations, are God’s method to connect humans to divinity. This helps humanity to better understand God. If I look at it from that perspective, I find it easier to accept why someone can trust their life into an abstract, non-physical idea.
 
-opens
+Like Mormons, everyone born into a culture of religion can easily accept the religion, where outsiders find it challenging to even understand. Talking with Cole taught me to always be open to others. Even though we grew up in distinct parts of the world, we have way more in common. I mentioned to him I play video games for fun. It turns out that we both like this video game and have invested a lot of effort. This showed me that even though our backgrounds are drastically different, we are also just college students who like video games. Our differences in politics, religion may differ, but that didn’t prevent us from discussing things we both liked, something trivial. Even on matters like religion, we still had a respectful conversation. I was able to see for him, religion is ingrained into him the moment he was born. It wasn’t about being exposed to, it was about being submerged in that. I was hesitant in sharing this with anyone because I was afraid they would think I am disrespecting their religion by saying I believe God doesn’t exist. But his response was amazing and helpful. It showed me that some people still like to engage in conversations, even if they are difficult. From that moment on, I learned to be more open on my culture and religion, if I am fairly confident that both parties can display good efforts to listen and understand each other to gave common grounds for a thoughtful discussion.

@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78bcee5d-13ba-4536-afa6-572e4ff78a79" name="Default Changelist" comment="framework update">
-      <change afterPath="$PROJECT_DIR$/static/images/canal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/myles_prom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/zion_game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/canal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/openness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/openness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/perspective.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/perspective.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/self-knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/self-knowledge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/canal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/canal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/myles_prom.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/myles_prom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/zion_game.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/zion_game.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617065931013</updated>
       <workItem from="1617065932318" duration="8188000" />
-      <workItem from="1617398361269" duration="1632000" />
+      <workItem from="1617398361269" duration="3176000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1617066919576</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617077290229</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="framework update">
+      <created>1617400017131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617400017131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
