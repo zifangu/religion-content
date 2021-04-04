@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78bcee5d-13ba-4536-afa6-572e4ff78a79" name="Default Changelist" comment="content update">
+      <change afterPath="$PROJECT_DIR$/static/images/tag.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/next steps.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/next steps.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/openness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/openness.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/perspective.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/perspective.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/self-knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/self-knowledge.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,8 @@
       <workItem from="1617065932318" duration="8188000" />
       <workItem from="1617398361269" duration="4833000" />
       <workItem from="1617491335245" duration="164000" />
-      <workItem from="1617491544900" duration="4629000" />
+      <workItem from="1617491544900" duration="5347000" />
+      <workItem from="1617547230860" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1617066919576</created>
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617403683698</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="content update">
+      <created>1617498182215</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617498182216</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +143,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="framework update" />
     <MESSAGE value="contentz update" />
-    <option name="LAST_COMMIT_MESSAGE" value="contentz update" />
+    <MESSAGE value="content update" />
+    <option name="LAST_COMMIT_MESSAGE" value="content update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
